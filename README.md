@@ -5,7 +5,7 @@ This project automatically generates captions for uploaded images. When the mode
 ## 🔧 Technologies Used
 
 - Vision Transformer (ViT)
-- GPT-2 (Dil modeli)
+- GPT-2 
 - PyTorch & HuggingFace Transformers
 
 
